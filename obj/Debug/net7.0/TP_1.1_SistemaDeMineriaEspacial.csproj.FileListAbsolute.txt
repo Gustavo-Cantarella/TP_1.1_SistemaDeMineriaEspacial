@@ -1,0 +1,14 @@
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\bin\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.exe
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\bin\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.deps.json
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\bin\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.runtimeconfig.json
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\bin\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.dll
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\bin\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.pdb
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.AssemblyInfoInputs.cache
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.AssemblyInfo.cs
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.csproj.CoreCompileInputs.cache
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.dll
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\refint\TP_1.1_SistemaDeMineriaEspacial.dll
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.pdb
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\TP_1.1_SistemaDeMineriaEspacial.genruntimeconfig.cache
+D:\Cursos\NEORIS\TPs\TP_1.1_SistemaDeMineriaEspacial\obj\Debug\net7.0\ref\TP_1.1_SistemaDeMineriaEspacial.dll
